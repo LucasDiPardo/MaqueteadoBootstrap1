@@ -1,0 +1,26 @@
+.bg-fondo{
+    background-color: aqua;
+}
+
+.bg-nav{
+    background-color: rgb(183, 230, 16);
+}
+
+.nav-link{
+    border-radius: 1rem;
+    padding: .5rem;
+    margin: 1rem;
+}
+
+.nav-link:hover{
+    background-color: beige;
+    box-shadow: black 2px 2px;
+}
+
+.img-logo{
+    width: 8rem;
+}
+
+.nav-item{
+    font-size: 2rem;
+}
